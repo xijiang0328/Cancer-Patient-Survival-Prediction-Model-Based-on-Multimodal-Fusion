@@ -1,0 +1,2 @@
+# Cancer-Patient-Survival-Prediction-Model-Based-on-Multimodal-Fusion
+Developed a multimodal survival prediction model using clinical and RNA-seq data from the IMvigor210 cohort. Applied variance filtering and PCA for dimensionality reduction, followed by 5-fold cross-validated LightGBM training. Generated individual risk scores and evaluated performance using C-index and Kaplan–Meier survival analysis.
